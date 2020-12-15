@@ -1,5 +1,5 @@
 # Contexts_PubMed
-This is the public repo for our article on COVID-19 Science Mobilization in *Contexts*. It is an update to a previous version, available [here](https://jimiadams.github.io/COVID_PubMed_Public/).
+This is the public repo for our [article](https://journals.sagepub.com/doi/full/10.1177/1536504220977933) on COVID-19 Science Mobilization in *Contexts*. It is an update to a previous version, available [here](https://jimiadams.github.io/COVID_PubMed_Public/).
 
 This project is pulling data from PubMed to construct collaboration networks from COVID-19 publications in Dec 2019 - Jun 2020. This work is in collaboration with [Ryan Light](https://sociology.uoregon.edu/profile/light/) & [Nicholas Theis](https://sociology.uoregon.edu/profile/ntheis/). 
 
